@@ -41,21 +41,13 @@ variable to be predicted.
 
 ## Demo
 
+https://user-images.githubusercontent.com/79400378/161438600-16551c75-990f-4cf6-aba2-18dbd3e75a11.mp4
+
+
+
 ## Deployment Link 
 
 Try-out the application here : 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Tech Stack
