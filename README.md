@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/79400378/161439159-ef36ef89-c8aa-48ce-
 
 ## Deployment Link 
 
-Try-out the application here :
+Try-out the application here : https://salespredictor.azurewebsites.net
 
 ## Problem Statement:
 
