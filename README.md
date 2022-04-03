@@ -3,6 +3,12 @@
 
 Store Sales Prediction is a solution which is able to predict the sales of the different stores of Big Mart according to the provided dataset and helps understand the product sales in any particular store of any locality.
 
+## Demo
+https://user-images.githubusercontent.com/79400378/161439159-ef36ef89-c8aa-48ce-afc2-9d72ed13c2ac.mp4
+
+## Deployment Link 
+
+Try-out the application here :
 
 ## Problem Statement:
 
@@ -39,51 +45,7 @@ Outlet_Location_Type: The type of city in which the store is located
 Outlet_Type: Whether the outlet is just a grocery store or some sort of supermarket
 Item_Outlet_Sales: Sales of the product in the particulat store. This is the outcome
 variable to be predicted.
-
-
-
-## Demo
-https://user-images.githubusercontent.com/79400378/161439159-ef36ef89-c8aa-48ce-afc2-9d72ed13c2ac.mp4
-
-
-## Deployment Link 
-
-Try-out the application here : 
-
-
+ 
 ## Tech Stack
 
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
